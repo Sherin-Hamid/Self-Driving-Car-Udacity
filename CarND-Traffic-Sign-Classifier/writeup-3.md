@@ -111,7 +111,7 @@ Here are seven German traffic signs that I found on the web, along with some cha
 
       Image                           Challenge
 
-![alt text][image2 | width=100]  the sign is not centered in the image
+![alt text][image2]{:height="50%" width="50%"}  the sign is not centered in the image
 ![alt text][image3]  the contrast between the sign color and the background might not be strong enough to distinguish the sign 
 ![alt text][image4]  there are other objects in the image (clouds and trees)
 ![alt text][image5]  there is text in this image which might be confusing for the model. Also, there is a building on the right of the image with colors close to the sign's
