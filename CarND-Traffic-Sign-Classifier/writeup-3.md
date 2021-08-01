@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./dataset_exploration.png "Visualization"
-[image2]: ./test_1.jpg =250x250=100 "Traffic Sign 1"
+[image2]: ./test_1.jpg | width=100 "Traffic Sign 1"
 [image3]: ./test_2.jpg =250x250 "Traffic Sign 2"
 [image4]: ./test_3.jpg =250x250 "Traffic Sign 3"
 [image5]: ./test_4.jpg =250x250 "Traffic Sign 4"
