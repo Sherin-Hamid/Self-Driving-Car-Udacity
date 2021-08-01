@@ -18,14 +18,6 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./dataset_exploration.png "Visualization"
-[image2]: ./test_1.jpg "Traffic Sign 1"
-[image3]: <img src="./test_2.jpg" width="50"> "Traffic Sign 2"
-[image4]: ./test_3.jpg "Traffic Sign 3"
-[image5]: ./test_4.jpg "Traffic Sign 4"
-[image6]: ./test_5.jpg "Traffic Sign 5"
-[image7]: ./test_6.jpg "Traffic Sign 6"
-[image8]: ./test_7.jpg "Traffic Sign 7"
-
 
 ---
 
@@ -111,7 +103,7 @@ Here are seven German traffic signs that I found on the web, along with some cha
 
       Image                           Challenge
 
-<img src="./test_1.jpg" width="50">  the sign is not centered in the image
+<img src="./test_1.jpg" width="100">  the sign is not centered in the image
 ![alt text][image3]  the contrast between the sign color and the background might not be strong enough to distinguish the sign 
 ![alt text][image4]  there are other objects in the image (clouds and trees)
 ![alt text][image5]  there is text in this image which might be confusing for the model. Also, there is a building on the right of the image with colors close to the sign's
