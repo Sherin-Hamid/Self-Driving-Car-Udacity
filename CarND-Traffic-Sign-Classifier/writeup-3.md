@@ -84,10 +84,8 @@ To decide on the parameters above, I tried different values of them and picked t
 
 #### 4. Describe the approach taken for finding a solution and getting the validation set accuracy to be at least 0.93. Include in the discussion the results on the training, validation and test sets and where in the code these were calculated. Your approach may have been an iterative process, in which case, outline the steps you took to get to the final solution and why you chose those steps. Perhaps your solution involved an already well known implementation or architecture. In this case, discuss why you think the architecture is suitable for the current problem.
 
-My final model results were:
-* training set accuracy of 0.999
-* validation set accuracy of 0.969 
-* test set accuracy of 0.961
+My final model results:
+Test Accuracy = 0.951
 
 I first tried a model with a max_pool layer after each convolutional layer, but it didn't give good results. I then tried removing them and keeping it only after the last convolutional layer and it gave better results.
 I also had another model with a dropout layer after each fully-connected one, but the results were not that good. Results improved after I removed these layers and had only one after the first fully-connected layer, as in the final model above.
@@ -134,7 +132,7 @@ Here are the results of the prediction:
 | Road work 			| Road work      								|
 
 
-The model was able to correctly guess 5 of the 7 traffic signs, which gives an accuracy of 0.714. This compares moderately to the accuracy on the test set of 0.961
+The model was able to correctly guess 5 of the 7 traffic signs, which gives an accuracy of 0.714. This compares moderately to the accuracy on the test set of 0.951
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. 
 
