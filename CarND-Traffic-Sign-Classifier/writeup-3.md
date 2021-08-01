@@ -104,11 +104,17 @@ Here are seven German traffic signs that I found on the web, along with some cha
       Image                           Challenge
 
 <img src="./test_1.jpg" width="200">  the sign is not centered in the image
+
 <img src="./test_2.jpg" width="200">  the contrast between the sign color and the background might not be strong enough to distinguish the sign 
+
 <img src="./test_3.jpg" width="200">  there are other objects in the image (clouds and trees)
+
 <img src="./test_4.jpg" width="200">  there is text in this image which might be confusing for the model. Also, there is a building on the right of the image with colors close to the sign's
+
 <img src="./test_5.jpg" width="200">  the resolution of the top of the image is not perfect
+
 <img src="./test_6.jpg" width="200">  I don't see tricky issues with this image 
+
 <img src="./test_7.jpg" width="200">  the children area sign is close to the pedestrian crossing sign, which might be confusing for the model
 
 
