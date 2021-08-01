@@ -128,8 +128,7 @@ Here are the results of the prediction:
 | Priority road   		| Priority road 								| 
 | Children crossing 	| Children crossing 							|
 | Turn right ahead 		| Yield 										|
-| Right-of-way at the   | Right-of-way at the next intersection 		
-  next intersection	    | 					 							|
+| Right-of-way at the next intersection  | Right-of-way at the next intersection 		|
 | Double curve 			| Priority road 	 							|
 | Stop 					| Stop      									|
 | Road work 			| Road work      								|
